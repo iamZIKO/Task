@@ -1,10 +1,10 @@
 # About
 
-The repository of the task "AppFactory"
+This is the repository of the task "AppFactory"
 
-## Why?
+## Why did I do this?
 
-This was the task of the "vacation"
+This was the task of the "vacation".
 
 ### FEATURES!
 
@@ -18,6 +18,7 @@ This task contains:
 
 ### Installation
 
+Note!
 If you want to work on this project you will not get the style.css file
 
 Don't forget to run the your terminal and check:
@@ -26,7 +27,7 @@ Don't forget to run the your terminal and check:
 $ npm run css-dev
 ```
 
-Optional! run the server and enjoy direct refreshing while coding!
+Optional: run the server and enjoy direct refreshing while coding!
 
 ```sh
 $ npm run server
@@ -34,9 +35,9 @@ $ npm run server
 
 # Target!
 
-Uploaded this task to test my workflow with git qnd yo share it with other friends
+Uploaded this task to test my workflow with git and to share it with other friends.
 
 ---
 
-[[Follow Me](https://github.com/zakiobeid)]
+[[Follow Me For More](https://github.com/zakiobeid)]
 
