@@ -2,7 +2,7 @@
 .cache
 dist/
 build/
-css/
+
 
 
 # Windows thumbnail cache files
@@ -45,9 +45,9 @@ dw_php_codehinting.config
 # Modules #
 ###########
 node_modules/
-npm_modules
-bower_components
-_webdata
+npm_modules/
+bower_components/
+_webdata/
 
 
 
