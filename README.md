@@ -38,6 +38,5 @@ Uploaded this task to test my workflow with git qnd yo share it with other frien
 
 ---
 
-[![Follow Me](https://github.com/zakiobeid)]
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[[Follow Me](https://github.com/zakiobeid)]
 
